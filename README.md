@@ -1,2 +1,2 @@
 # secretarIA-
-Secretario de IA para vida pessoal
+IA para vida pessoal
